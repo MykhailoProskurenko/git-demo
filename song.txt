@@ -3,7 +3,12 @@ tra-ta-ta
 trata-ta
 trata-ta
 
+<<<<<<< HEAD
 tra-ta-ta
 tra-ta-ta
 trata-ta
 trata-ta
+=======
+kukukuk
+kukukuk
+>>>>>>> 5fac41e0ebe7d23672112f0d8ce1413f098516cb
