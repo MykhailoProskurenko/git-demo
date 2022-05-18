@@ -13,5 +13,8 @@ trata-ta
 kukukuk
 kukukuk
 >>>>>>> 5fac41e0ebe7d23672112f0d8ce1413f098516cb
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 5fac41e (фвв ецщ ьщку дштуі ещ іщтп)
+=======
+>>>>>>> 4baaac8e3942f50c3d0abfe5e67a2a81d24c0ab4
